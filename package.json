@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "portless api.kalyswap next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -H localhost",
     "lint": "next lint",
     "prisma:generate": "prisma generate",
     "prisma:migrate": "prisma migrate dev",

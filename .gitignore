@@ -49,3 +49,6 @@ next-env.d.ts
 
 # keep the documented template committable
 !.env.example
+.claude/
+.superpowers/
+docs/superpowers/
